@@ -5,8 +5,9 @@
 [submodule "BFHcharts"]
 	path = BFHcharts
 	url = https://github.com/johanreventlow/BFHcharts
-	branch = *release
+[submodule "BFHllm"]
+	path = BFHllm
+	url = https://github.com/johanreventlow/BFHllm
 [submodule "BFHtheme"]
 	path = BFHtheme
 	url = https://github.com/johanreventlow/BFHtheme
-	branch = *release
