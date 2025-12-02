@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BFHcharts",
+    "releasetag": true
+  },
+  {
+    "package": "BFHtheme",
+    "releasetag": true
+  }
+]

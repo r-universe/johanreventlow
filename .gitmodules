@@ -1,5 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/johanreventlow/johanreventlow.r-universe.dev
 	branch = HEAD
+[submodule "BFHcharts"]
+	path = BFHcharts
+	url = https://github.com/johanreventlow/BFHcharts
+	branch = *release
+[submodule "BFHtheme"]
+	path = BFHtheme
+	url = https://github.com/johanreventlow/BFHtheme
+	branch = *release
